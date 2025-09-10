@@ -1,4 +1,4 @@
-## Versión Inicial (12:00 - 14:00)
+## Versión Inicial Contenido de 12-2-clase (12:00 - 14:00)
 Durante el primer segmento del día, los cambios realizados y subidos al repositorio incluyen las 
 actualizaciones fundamentales que se desarrollaron desde las 12 hasta las 14 horas. Estos han sido 
 principalmente en la base de código principal ('Main') y en un módulo crítico denominado '12-2'.
