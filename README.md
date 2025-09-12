@@ -9,9 +9,15 @@ posteriores.
 
 ## Contenido de Fase 1 (Posterior a las 14:00)
 Después del período inicial, en lo sucesivo denominado 'Fase 1', los cambios adicionales y mejoras 
-continuaron bajo la carpeta específica "TallerP2". Es importante destacar que estos desarrollos 
+continuaron bajo la carpeta específica **TallerP2**. Es importante destacar que estos desarrollos 
 mantienen una estructura organizada mediante el uso de Java con Gradle y DSL Groovy.
 
 Dentro de 'TallerP2', la arquitectura se ha diseñado para reflejar mejor las prácticas recomendadas en 
 términos de organización de archivos y directorios según los estándares de Java, lo que facilita el 
 trabajo futuro tanto para desarrolladores internos como externos.
+
+## Contenido de Fase 2 (Entrega Jueves 11 de Septiembre)
+El codigo concretado incluyendo como pide la rubica [Extracción desde el ArrayDeque, Reversión de intercambio
+de nodos. Reconstrucción del mensaje, Logs y análisis de performance, Análisis de complejidad y evidencia
+empírica] se puede ver en el el directorio **TallerP2v2** y el documento con el análisis de complejidad como 
+un PDF en primera plana.
